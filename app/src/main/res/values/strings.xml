@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ID Application</string>
+    <string name="hint_id">Please enter your ID number</string>
+    <string name="hint_id_2">Please enter your ID number 2</string>
+    <string name="btn_submit">Submit</string>
+    <string name="textview">TextView</string>
+</resources>
